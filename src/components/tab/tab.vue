@@ -94,7 +94,13 @@
     flex-direction: column
     height: 100%
     >>> .cube-tab
+      color: #999
+    >>> .cube-tab_active
+      color: #000
       padding: 10px 0
+    >>> .cube-tab-bar-slider
+      width: 30px !important
+      left: 48px
     .slide-wrapper
       flex: 1
       overflow: hidden
