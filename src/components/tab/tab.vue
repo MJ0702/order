@@ -98,9 +98,9 @@
     >>> .cube-tab_active
       color: #000
       padding: 10px 0
-    >>> .cube-tab-bar-slider
-      width: 30px !important
-      left: 48px
+    // >>> .cube-tab-bar-slider
+    //   width: 30px !important
+    //   left: 12%
     .slide-wrapper
       flex: 1
       overflow: hidden
